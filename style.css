@@ -71,6 +71,7 @@ a {
     justify-content: center;
     align-items: center;
     background-color: white;
+    margin-bottom: 32px;
 }
 
 .content {
@@ -151,11 +152,12 @@ a {
 .sign-up-text {
     color: white;
     font-weight: bolder;
-    font-size: 24px;
+    font-size: 16px;
 }
 
 .sign-up-sub-text {
     color: #E5E7EB;
+    font-size: 12px;
 }
 
 .bottom-button {
